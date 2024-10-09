@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-09T22:17:32 IST" name="Suite" finished-at="2024-10-09T22:18:19 IST" duration-ms="47352">
+    <groups>
+    </groups>
+    <test started-at="2024-10-09T22:17:32 IST" name="Test" finished-at="2024-10-09T22:18:19 IST" duration-ms="47352">
+      <class name="com.makemytrip.flights.Flights">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.makemytrip.flights.Flights@4c1909a3]" started-at="2024-10-09T22:17:23 IST" name="setUp" finished-at="2024-10-09T22:17:32 IST" duration-ms="9463" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.makemytrip.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="filghtTest01()[pri:0, instance:com.makemytrip.flights.Flights@4c1909a3]" started-at="2024-10-09T22:17:33 IST" name="filghtTest01" finished-at="2024-10-09T22:17:42 IST" duration-ms="9243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filghtTest01 -->
+      </class> <!-- com.makemytrip.flights.Flights -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
